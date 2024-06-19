@@ -1,0 +1,25 @@
+.heading{
+    text-align:center;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.new{
+    margin: auto;
+    width: fit-content;
+    
+    
+
+ 
+
+}
+table{
+    border: 1px solid rgb(44, 44, 44);
+    border-collapse:collapse ;
+    text-align: center;
+}
+th,td{
+    border: 1px solid rgb(41, 39, 39);
+    padding: 10px;
+    
+    
+}
